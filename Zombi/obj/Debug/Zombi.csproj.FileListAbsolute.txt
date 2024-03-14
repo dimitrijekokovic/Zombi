@@ -1,0 +1,19 @@
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\bin\Debug\Zombi.exe.config
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\bin\Debug\Zombi.exe
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\bin\Debug\Zombi.pdb
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.csprojResolveAssemblyReference.cache
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.Form1.resources
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.Properties.Resources.resources
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.csproj.GenerateResource.Cache
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.exe
+C:\Users\5\Documents\Visual Studio 2015\Projects\Zombi\Zombi\obj\Debug\Zombi.pdb
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\bin\Debug\Zombi.exe.config
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\bin\Debug\Zombi.exe
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\bin\Debug\Zombi.pdb
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.csprojAssemblyReference.cache
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.Form1.resources
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.Properties.Resources.resources
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.csproj.GenerateResource.cache
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.exe
+C:\Users\WIN10\Desktop\Dimitrije\EduTech\C#\Zombi\Zombi\obj\Debug\Zombi.pdb
